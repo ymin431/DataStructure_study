@@ -32,6 +32,6 @@ int func1(inmt arr[], int n) {
 
 > [!NOTE]
 > N이 커짐에 따라 시간 복잡도가 올라감  
-> O(1) < O(lgN) < O(N) < O(NlgN) < O(N²) < O(0^N^)
+> O(1) < O(lgN) < O(N) < O(NlgN) < O(N²) < O(0<sup>N</sup>) < O(N!)
 
 ## 공간 복잡도
