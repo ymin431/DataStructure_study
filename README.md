@@ -1,1 +1,1 @@
-# DataStructure_study
+# 자료구조 여름방학 스터디
