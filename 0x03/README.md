@@ -73,7 +73,7 @@
 
 - [x] 10808 : [알파벳 개수](https://www.acmicpc.net/problem/10808)
 
-#### 기본 문제
+#### 기본문제
 
 - [x] 2577 : [숫자의 개수](https://www.acmicpc.net/problem/2577)
 - [x] 1475 : [방 번호](https://www.acmicpc.net/problem/1475)

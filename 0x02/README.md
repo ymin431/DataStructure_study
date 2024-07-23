@@ -80,7 +80,7 @@ cin.tie(0);
 
 - [x] 10871 : [X보다 작은 수](https://www.acmicpc.net/problem/10871)
 
-#### 기본 문제
+#### 기본문제
 
 - [x] 1000 : [A+B](https://www.acmicpc.net/problem/1000)
 - [x] 2557 : [Hello World](https://www.acmicpc.net/problem/2557)
