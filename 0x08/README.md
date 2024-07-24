@@ -32,8 +32,8 @@
 
 #### 기본문제
 
-- [ ] 3986 : [좋은 단어](https://www.acmicpc.net/problem/3986)
-- [ ] 9012 : [괄호](https://www.acmicpc.net/problem/9012)
+- [x] 3986 : [좋은 단어](https://www.acmicpc.net/problem/3986)
+- [x] 9012 : [괄호](https://www.acmicpc.net/problem/9012)
 
 #### 응용문제
 

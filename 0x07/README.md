@@ -53,7 +53,7 @@
 
 #### 기본문제
 
-- [ ] 1021 : [회전하는 큐](https://www.acmicpc.net/problem/1021)
+- [x] 1021 : [회전하는 큐](https://www.acmicpc.net/problem/1021)
 
 #### 응용문제
 
