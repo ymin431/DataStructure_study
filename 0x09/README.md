@@ -59,6 +59,9 @@
 
 #### 기본문제
 
+- [x] 1012 : [유기농 배추](https://www.acmicpc.net/problem/1012)
+- [x] 10026 : [적록색약](https://www.acmicpc.net/problem/10026)
+- [ ] 7569 : [토마토](https://www.acmicpc.net/problem/7569)
 
 
 #### 응용문제
