@@ -61,8 +61,15 @@
 
 - [x] 1012 : [유기농 배추](https://www.acmicpc.net/problem/1012)
 - [x] 10026 : [적록색약](https://www.acmicpc.net/problem/10026)
-- [ ] 7569 : [토마토](https://www.acmicpc.net/problem/7569)
-
+- [x] 7569 : [토마토](https://www.acmicpc.net/problem/7569)
+- [x] 7562 : [나이트의 이동](https://www.acmicpc.net/problem/7562)
+- [ ] 5427 : [불](https://www.acmicpc.net/problem/5427)
 
 #### 응용문제
 
+- [ ] 2206 : [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+- [ ] 9466 : [텀 프로젝트](https://www.acmicpc.net/problem/9466)
+- [ ] 2573 : [빙산](https://www.acmicpc.net/problem/2573)
+- [ ] 2146 : [다리 만들기](https://www.acmicpc.net/problem/2146)
+- [ ] 13549 : [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
+- [ ] 1600 : [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
